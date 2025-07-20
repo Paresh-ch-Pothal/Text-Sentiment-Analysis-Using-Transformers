@@ -17,4 +17,5 @@ Pandas & NumPy
 🖥️ Simple and interactive Gradio interface
 
 ### Preview
-![Uploading Screenshot 2025-07-20 205940.png…]()
+<img width="1919" height="473" alt="Screenshot 2025-07-20 205940" src="https://github.com/user-attachments/assets/91020adf-d532-4b30-9ed3-eb08c549f99d" />
+
